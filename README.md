@@ -51,7 +51,4 @@ The following table summarizes the simulation results comparing the two architec
 1.  N. L. Reddy et al., *"Design of a high performance 4 bit multiplier using UT algorithm with domino logic,"* IEMCON 2016.
 2.  Course Project Report: *High Performance 4 Bit Multiplier Using UT Algorithm With Domino Logic*, HCMUTE, Jan 2025.
 
----
-<p align="center">
-  <i>Developed by Nguyen Dinh Tuan & Team</i>
-</p>
+
